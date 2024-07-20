@@ -11,6 +11,9 @@ Features include:
 - Detailed bill generation
 - Clear and exit functions
 
+## Screenshot
+![pythonss](https://github.com/user-attachments/assets/d66a3682-1688-4931-9d14-5c0ebb3bf1d8)
+
 ## Features
 
 - **Customer Details Entry**: Input fields for customer name and phone number.
